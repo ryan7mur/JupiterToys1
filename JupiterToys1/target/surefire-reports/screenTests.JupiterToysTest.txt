@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: screenTests.JupiterToysTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 131.544 s - in screenTests.JupiterToysTest
