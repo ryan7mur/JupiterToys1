@@ -51,7 +51,7 @@ public class JupiterToys {
 
 	public static String propertiesReader(String key) throws IOException {
 		Properties props = new Properties();
-		FileReader reader = new FileReader("/Users/ryanmurray/eclipse-workspace/JupiterToys1/src/test/resources/SystemValues.properties");
+		FileReader reader = new FileReader("/planitAutomation-main/JupiterToys1/src/test/resources/SystemValues.properties");
 		props.load(reader);
 		return props.getProperty(key);
 	}
